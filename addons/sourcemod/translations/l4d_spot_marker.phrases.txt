@@ -1,0 +1,43 @@
+/*
+	******************************************************************************************************************************************************
+
+	You can display phrases in chat with color using any of the methods below:
+
+	Using color codes:
+		•  // Default (use instead of \x01), Alt + 01 Keyboard Shortcut
+		•  // Light Green (use instead of \x03), Alt + 03 Keyboard Shortcut
+		•  // Orange (use instead of \x04), Alt + 04 Keyboard Shortcut
+		•  // Olive (use instead of \x05), Alt + 05 Keyboard Shortcut
+
+	or
+
+	Using color tags:
+		• {default} // Default (use instead of \x01)
+		• {lightgreen} // Light Green (use instead of \x03)
+		• {orange} // Orange (use instead of \x04)
+		• {olive} // Green (use instead of \x05)
+
+	******************************************************************************************************************************************************
+*/
+
+"Phrases"
+{
+	"Intro"
+	{
+		"chi"			"{olive}按 {orange}+ALT2 {lightgreen}在准星处生成标记"
+		"zho"			"{olive}按 {orange}+ALT2 {lightgreen}在準心指向的位置生成標記"
+	}
+
+	"Skill Ready"
+	{
+		"chi"			"{olive}你的 {orange}标记{olive} 已{lightgreen}准备好"
+		"zho"			"{olive}你的 {orange}標記{olive }已{lightgreen}準備好"
+	}
+
+	"Spot Marked"
+	{
+		"#format"		"{1:N}"
+		"chi"			"{orange}{1} {lightgreen}已标记一个位置于地图上"
+		"zho"			"{orange}{1} {lightgreen}已標記一個位置於地圖上"
+	}
+}

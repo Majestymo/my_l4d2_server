@@ -1,0 +1,22 @@
+Github库: https://github.com/lakwsh/l4dtoolz
+最新版本下载: https://github.com/lakwsh/l4dtoolz/releases/latest
+A2S补丁(2226版): https://github.com/lakwsh/l4dtoolz/releases/tag/2.0.6
+该版本可直接替换旧版l4dtoolz及tickrate_enabler,默认最大客户端数为18
+经测试,多人及tickrate解锁功能在旧版(2155版)仍生效
+如需要自定义默认最大客户端数请在启动项中添加"+sv_setmax 31"(以31为例)
+
+从2.0.0版本开始,本扩展不再依赖于Metamod平台
+请务必完全删除旧版本,包括以下文件: 
+metamod/l4dtoolz.vdf
+l4dtoolz_mm.so
+l4dtoolz_mm.dll
+然后将压缩包解压到addons目录下!!!
+
+不重启服务器更新方法:
+plugin_print查看插件id(以id为0为例)
+plugin_unload 0
+plugin_load addons/l4dtoolz
+
+具体功能说明,请查看 README.md !!!!!
+具体功能说明,请查看 README.md !!!!!
+具体功能说明,请查看 README.md !!!!!

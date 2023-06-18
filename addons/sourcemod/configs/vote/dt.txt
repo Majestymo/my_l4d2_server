@@ -1,0 +1,165 @@
+"Cfgs"
+{	
+	"妹妹"
+	{
+		"exec define/witch.cfg"
+		{
+			"message" "来点妹妹"
+		}
+		"exec define/uwitch.cfg"
+		{
+			"message" "不要妹妹了"
+		}
+	}
+	"地图缓存"
+	{
+		"sm_reload_vpk"
+		{
+			"message" "重载服务器地图"
+		}
+		"sm_missions_export"
+		{
+			"message" "重载服务器地图章节"
+		}
+	}
+	"多特选项"
+	{
+		"exec define/dt.cfg"
+		{
+			"message" "开启多特"
+		}
+		"exec define/udt.cfg"
+		{
+			"message" "关闭多特"
+		}
+		"exec define/si.cfg"
+		{
+			"message" "增强特感"
+		}
+		"exec define/usi.cfg"
+		{
+			"message" "关闭特感增强"
+		}
+	}
+	"人机 友伤 弹药 回血"
+	{
+		"sm_cvar sb_fix_enabled 1"
+		{
+			"message" "加强人机"
+		}
+		"sm_cvar sb_fix_enabled 0"
+		{
+			"message" "不加强了"
+		}
+		"exec define/ff/easy.cfg"
+		{
+			"message" "友伤简单0"
+		}
+		"exec define/ff/normal.cfg"
+		{
+			"message" "友伤一般0.1"
+		}
+		"exec define/ff/hard.cfg"
+		{
+			"message" "友伤困难0.3"
+		}
+		"exec define/ff/expert.cfg"
+		{
+			"message" "友伤专家0.5"
+		}
+		"exec define/2xammo.cfg"
+		{
+			"message" "更多弹药"
+		}
+		"exec define/3xammo.cfg"
+		{
+			"message" "无限弹药"
+		}
+		"exec define/ammo.cfg"
+		{
+			"message" "初始弹药"
+		}
+		"exec define/hp.cfg"
+		{
+			"message" "开启回血"
+		}
+		"exec define/uhp.cfg"
+		{
+			"message" "关闭回血"
+		}
+		"exec define/res.cfg"
+		{
+			"message" "开启复活"
+		}
+		"exec define/ures.cfg"
+		{
+			"message" "关闭复活"
+		}
+	}
+	"刷特时间"
+	{
+		"exec define/dt/0s.cfg"
+		{
+			"message" "0s"
+		}
+		"exec define/dt/2s.cfg"
+		{
+			"message" "2s"
+		}
+		"exec define/dt/6s.cfg"
+		{
+			"message" "6s"
+		}
+		"exec define/dt/10s.cfg"
+		{
+			"message" "10s"
+		}
+		"exec define/dt/14s.cfg"
+		{
+			"message" "14s"
+		}
+		"exec define/dt/18s.cfg"
+		{
+			"message" "18s"
+		}
+		"exec define/dt/22s.cfg"
+		{
+			"message" "22s"
+		}
+		"exec define/dt/26s.cfg"
+		{
+			"message" "26s"
+		}
+	}
+	"刷特数量"
+	{
+		"exec define/dt/0t.cfg"
+		{
+			"message" "0t"
+		}
+		"exec define/dt/4t.cfg"
+		{
+			"message" "4t"
+		}
+		"exec define/dt/8t.cfg"
+		{
+			"message" "8t"
+		}
+		"exec define/dt/12t.cfg"
+		{
+			"message" "12t"
+		}
+		"exec define/dt/16t.cfg"
+		{
+			"message" "16t"
+		}
+		"exec define/dt/20t.cfg"
+		{
+			"message" "20t"
+		}
+		"exec define/dt/24t.cfg"
+		{
+			"message" "24t"
+		}
+	}
+}

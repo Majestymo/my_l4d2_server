@@ -1,0 +1,10 @@
+"MatchModes"
+{
+	"ZoneMod Configs"
+	{
+		"zonemod"
+		{
+			"name" "ZoneMod 2.8.3"
+		}
+	}
+}

@@ -1,0 +1,32 @@
+"Games"
+{
+    "left4dead2"
+    {
+		"Signatures"
+		{
+			"SetHibernating"
+			{
+				"library"	"engine"
+				"linux"		"@_ZN11CGameServer14SetHibernatingEb"
+				"windows"	"\x55\x8B\xEC\x8A*******\x81\xD3\x02\x00"
+			}
+		}
+		"Functions"
+		{
+			"SetHibernating"
+			{
+				"signature"		"SetHibernating"
+				"callconv"		"thiscall"
+				"return"		"void"
+				"this"			"ignore"
+				"arguments"
+				{
+					"bHibernating"
+					{
+						"type"	"int"
+					}
+				}
+			}
+		}
+    }
+}

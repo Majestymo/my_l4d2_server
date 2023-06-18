@@ -1,0 +1,106 @@
+"Cfgs"
+{
+	"服务器选项"
+	{
+		"sm_restartmap"
+		{
+			"message" "重置当前地图"
+		}
+		"sm_restart"
+		{
+			"message" "服务器端重启"
+		}
+	}	
+	"人机选项"
+	{
+		"sm_cvar sb_fix_enabled 1"
+		{
+			"message" "加强人机"
+		}
+		"sb_fix_enabled 0"
+		{
+			"message" "不加强了"
+		}
+	}
+	"特感选项"
+	{
+		"sm_cvar Special_Default_Mode 1"
+		{
+			"message" "Hunter快乐屋"
+		}
+		"sm_cvar Special_Default_Mode 2"
+		{
+			"message" "牛牛快乐模式"
+		}
+		"sm_cvar Special_Default_Mode 3"
+		{
+			"message" "猴子跳跳乐"
+		}
+		"sm_cvar Special_Default_Mode 6"
+		{
+			"message" "我要砍舌头"
+		}
+		"sm_cvar Special_Default_Mode 7"
+		{
+			"message" "正常点吧"
+		}	
+	}
+	"刷特模式"
+	{
+		"sm_cvar Special_Spawn_Mode 1"
+		{
+			"message" "普通模式"
+		}
+		"sm_cvar Special_Spawn_Mode 2"
+		{
+			"message" "噩梦模式"
+		}
+		"sm_cvar Special_Spawn_Mode 3"
+		{
+			"message" "地狱模式"
+		}
+	}
+	"大厅匹配"
+	{
+		"sm plugins load_unlock"
+		{
+			"message" "先开这个"
+		}
+		"sm plugins unload optional/zm/define/l4d2_block_match_connect.smx"
+		{
+			"message" "开启大厅匹配"
+		}
+		"sm plugins load optional/zm/define/l4d2_block_match_connect.smx"
+		{
+			"message" "关闭大厅匹配"
+		}
+		"sm plugins load_lock"
+		{
+			"message" "投票后开这个"
+		}
+		
+	}
+	"药役模式选择"
+	{
+		"sm_fm annehappy"
+		{
+			"message" "普通药役模式"
+		}
+		"sm_fm hunters"
+		{
+			"message" "1vHunter模式"
+		}
+		"sm_fm alone"
+		{
+			"message" "单人装B模式"
+		}
+		"sm_fm witchparty"
+		{
+			"message" "WitchParty模式"
+		}
+		"sm_fm allcharger"
+		{
+			"message" "牛牛冲刺大逃亡"
+		}
+	}
+}

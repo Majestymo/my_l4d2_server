@@ -1,0 +1,1 @@
+/media/mo/5b18308a-d408-4055-b2b8-c5cad2852494/l4d2_dt/Steam/steamapps/common/l4d2/srcds_run -game left4dead2 -debug -nomaster -secure -lv -ip 192.168.2.7 -port 27001 -tickrate 100 +map c2m1_highway +exec server.cfg

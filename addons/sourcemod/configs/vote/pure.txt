@@ -1,0 +1,193 @@
+"Cfgs"
+{	
+	"多特选项"
+	{
+		"exec define/dt.cfg"
+		{
+			"message" "开启多特"
+		}
+		"sm_cvar Special_PluginStatus 0"
+		{
+			"message" "关闭多特"
+		}
+		"exec define/si.cfg"
+		{
+			"message" "增强特感"
+		}
+		"exec define/unload.cfg"
+		{
+			"message" "关闭所有"
+		}
+		"exec define/load.cfg"
+		{
+			"message" "加载基础配置"
+		}
+	}
+	"人机 回血 友伤 弹药"
+	{
+		"sm_cvar sb_fix_enabled 1"
+		{
+			"message" "加强人机"
+		}
+		"sm_cvar sb_fix_enabled 0"
+		{
+			"message" "不加强了"
+		}
+		"sm_cvar l4d2_Kill_enabled_health_return 1"
+		{
+			"message" "开启回血"
+		}
+		"sm_cvar l4d2_Kill_enabled_health_return 0"
+		{
+			"message" "关闭回血"
+		}
+		"exec define/ff/easy.cfg"
+		{
+			"message" "友伤简单0"
+		}
+		"exec define/ff/normal.cfg"
+		{
+			"message" "友伤一般0.1"
+		}
+		"exec define/ff/hard.cfg"
+		{
+			"message" "友伤困难0.3"
+		}
+		"exec define/ff/expert.cfg"
+		{
+			"message" "友伤专家0.5"
+		}
+		"exec define/2xammo.cfg"
+		{
+			"message" "更多弹药"
+		}
+		"exec define/ammo.cfg"
+		{
+			"message" "初始弹药"
+		}
+	}
+	"特感选项"
+	{
+		"sm_cvar Special_Default_Mode 1"
+		{
+			"message" "Hunter快乐屋"
+		}
+		"sm_cvar Special_Default_Mode 2"
+		{
+			"message" "牛牛快乐模式"
+		}
+		"sm_cvar Special_Default_Mode 3"
+		{
+			"message" "猴子跳跳乐"
+		}
+		"sm_cvar Special_Default_Mode 6"
+		{
+			"message" "我要砍舌头"
+		}
+		"sm_cvar Special_Default_Mode 7"
+		{
+			"message" "正常点吧"
+		}	
+		"sm_cvar ai_Tank_Bhop 1"
+		{
+			"message" "开启Tank连跳"
+		}
+		"sm_cvar ai_Tank_Bhop 0"
+		{
+			"message" "关闭Tank连跳"
+		}
+	}
+	"刷特时间"
+	{
+		"sm_cvar Special_Spawn_Time 0"
+		{
+			"message" "0s"
+		}
+		"sm_cvar Special_Spawn_Time 10"
+		{
+			"message" "10s"
+		}
+		"sm_cvar Special_Spawn_Time 15"
+		{
+			"message" "15s"
+		}
+		"sm_cvar Special_Spawn_Time 20"
+		{
+			"message" "20s"
+		}
+		"sm_cvar Special_Spawn_Time 25"
+		{
+			"message" "25s"
+		}
+		"sm_cvar Special_Spawn_Time 30"
+		{
+			"message" "30s"
+		}	
+	}
+	"特感数量"
+	{
+		"sm_cvar Special_Num 1"
+		{
+			"message" "1特"
+		}
+		"sm_cvar Special_Num 2"
+		{
+			"message" "2特"
+		}
+		"sm_cvar Special_Num 3"
+		{
+			"message" "3特"
+		}
+		"sm_cvar Special_Num 4"
+		{
+			"message" "4特"
+		}
+		"sm_cvar Special_Num 6"
+		{
+			"message" "6特"
+		}
+		"sm_cvar Special_Num 8"
+		{
+			"message" "8特"
+		}
+		"sm_cvar Special_Num 10"
+		{
+			"message" "10特"
+		}
+		"sm_cvar Special_Num 12"
+		{
+			"message" "12特"
+		}
+		"sm_cvar Special_Num 14"
+		{
+			"message" "14特"
+		}
+		"sm_cvar Special_Num 16"
+		{
+			"message" "16特"
+		}
+		"sm_cvar Special_Num 18"
+		{
+			"message" "18特"
+		}
+		"sm_cvar Special_Num 20"
+		{
+			"message" "20特"
+		}	
+	}
+	"刷特模式"
+	{
+		"sm_cvar Special_Spawn_Mode 1"
+		{
+			"message" "普通模式"
+		}
+		"sm_cvar Special_Spawn_Mode 2"
+		{
+			"message" "噩梦模式"
+		}
+		"sm_cvar Special_Spawn_Mode 3"
+		{
+			"message" "地狱模式"
+		}	
+	}
+}

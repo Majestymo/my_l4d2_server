@@ -1,0 +1,855 @@
+"Phrases"
+{
+	"c1m1_hotel"
+	{
+		"chi"		"1：旅馆"
+	}
+	"c1m2_streets"
+	{
+		"chi"		"2：街道"
+	}
+	"c1m3_mall"
+	{
+		"chi"		"3：购物中心"
+	}
+	"c1m4_atrium"
+	{
+		"chi"		"4：中厅"
+	}
+	"c2m1_highway"
+	{
+		"chi"		"1：高速公路"
+	}
+	"c2m2_fairgrounds"
+	{
+		"chi"		"2：游乐场"
+	}
+	"c2m3_coaster"
+	{
+		"chi"		"3：过山车"
+	}
+	"c2m4_barns"
+	{
+		"chi"		"4：谷仓"
+	}
+	"c2m5_concert"
+	{
+		"chi"		"5：音乐会"
+	}
+	"c3m1_plankcountry"
+	{
+		"chi"		"1：乡村"
+	}
+	"c3m2_swamp"
+	{
+		"chi"		"2：沼泽"
+	}
+	"c3m3_shantytown"
+	{
+		"chi"		"3：贫民窟"
+	}
+	"c3m4_plantation"
+	{
+		"chi"		"4：种植园"
+	}
+	"c4m1_milltown_a"
+	{
+		"chi"		"1：密尔城"
+	}
+	"c4m2_sugarmill_a"
+	{
+		"chi"		"2：糖厂"
+	}
+	"c4m3_sugarmill_b"
+	{
+		"chi"		"3：逃离工厂"
+	}
+	"c4m4_milltown_b"
+	{
+		"chi"		"4：重返小镇"
+	}
+	"c4m5_milltown_escape"
+	{
+		"chi"		"5：逃离小镇"
+	}
+	"c5m1_waterfront"
+	{
+		"chi"		"1：码头"
+	}
+	"c5m2_park"
+	{
+		"chi"		"2：公园"
+	}
+	"c5m3_cemetery"
+	{
+		"chi"		"3：墓地"
+	}
+	"c5m4_quarter"
+	{
+		"chi"		"4：特区"
+	}
+	"c5m5_bridge"
+	{
+		"chi"		"5：桥"
+	}
+	"c6m1_riverbank"
+	{
+		"chi"		"1: 河畔"
+	}
+	"c6m2_bedlam"
+	{
+		"chi"		"2: 地下通道"
+	}
+	"c6m3_port"
+	{
+		"chi"		"3: 港口"
+	}
+	"c7m1_docks"
+	{
+		"chi"		"1: 码头"
+	}
+	"c7m2_barge"
+	{
+		"chi"		"2: 驳船"
+	}
+	"c7m3_port"
+	{
+		"chi"		"3: 港口"
+	}
+	"c8m1_apartment"
+	{
+		"chi"		"1: 公寓"
+	}
+	"c8m2_subway"
+	{
+		"chi"		"2: 地铁"
+	}
+	"c8m3_sewers"
+	{
+		"chi"		"3: 下水道"
+	}
+	"c8m4_interior"
+	{
+		"chi"		"4: 医院"
+	}
+	"c8m5_rooftop"
+	{
+		"chi"		"5: 屋顶"
+	}
+	"c9m1_alleys"
+	{
+		"chi"		"1: 小巷"
+	}
+	"c9m2_lots"
+	{
+		"chi"		"2: 卡车停车场"
+	}
+	"c10m1_caves"
+	{
+		"chi"		"1: 收费公路"
+	}
+	"c10m2_drainage"
+	{
+		"chi"		"2: 水沟"
+	}
+	"c10m3_ranchhouse"
+	{
+		"chi"		"3: 教堂"
+	}
+	"c10m4_mainstreet"
+	{
+		"chi"		"4: 小镇"
+	}
+	"c10m5_houseboat"
+	{
+		"chi"		"5: 码头"
+	}
+	"c11m1_greenhouse"
+	{
+		"chi"		"1: 花房"
+	}
+	"c11m2_offices"
+	{
+		"chi"		"2: 起重机"
+	}
+	"c11m3_garage"
+	{
+		"chi"		"3: 建筑工地"
+	}
+	"c11m4_terminal"
+	{
+		"chi"		"4: 航空机场"
+	}
+	"c11m5_runway"
+	{
+		"chi"		"5: 飞机跑道"
+	}
+	"c12m1_hilltop"
+	{
+		"chi"		"1: 森林"
+	}
+	"c12m2_traintunnel"
+	{
+		"chi"		"2: 隧道"
+	}
+	"c12m3_bridge"
+	{
+		"chi"		"3: 桥"
+	}
+	"c12m4_barn"
+	{
+		"chi"		"4: 火车站"
+	}
+	"c12m5_cornfield"
+	{
+		"chi"		"5: 农舍"
+	}
+	"c13m1_alpinecreek"
+	{
+		"chi"		"1: 高山小溪"
+	}
+	"c13m2_southpinestream"
+	{
+		"chi"		"2: 松木之河"
+	}
+	"c13m3_memorialbridge"
+	{
+		"chi"		"3: 纪念大桥"
+	}
+	"c13m4_cutthroatcreek"
+	{
+		"chi"		"4: 残酷溪流"
+	}
+	"c14m1_junkyard"
+	{
+		"chi"		"1: 教区桥梁"
+	}
+	"c14m2_lighthouse"
+	{
+		"chi"		"2: 灯塔"
+	}
+	"eu01_residential_b16"
+	{
+		"chi"		"Residential"
+	}
+	"eu02_castle_b16"
+	{
+		"chi"		"Castle"
+	}
+	"eu03_oldtown_b16"
+	{
+		"chi"		"Oldtown"
+	}
+	"eu04_freeway_b16"
+	{
+		"chi"		"Freeway"
+	}
+	"eu05_train_b16"
+	{
+		"chi"		"Trainstation"
+	}
+	"sv_eu_park_b02"
+	{
+		"chi"		"Park"
+	}
+	"sv_eu_castle_b01"
+	{
+		"chi"		"Castle"
+	}
+	"sv_eu_courtyard_b03"
+	{
+		"chi"		"Courtyard"
+	}
+	"sv_eu_freeway_b01"
+	{
+		"chi"		"Freeway"
+	}
+	"1-cheyenne"
+	{
+		"chi"		"Un nuevo comienzo"
+	}
+	"2-comandosgc"
+	{
+		"chi"		"Comando SGC"
+	}
+	"3-BaseGamma"
+	{
+		"chi"		"Base Gamma"
+	}
+	"4-DnalsiYeknom"
+	{
+		"chi"		"Planeta Dnalsi Yeknom"
+	}
+	"5-dedalo"
+	{
+		"chi"		"Dedalo"
+	}
+	"6-despegando"
+	{
+		"chi"		"Despegando"
+	}
+	"rmstitanic_m1"
+	{
+		"chi"		"Tank Top"
+	}
+	"rmstitanic_m2"
+	{
+		"chi"		"Scotland Road"
+	}
+	"rmstitanic_m3"
+	{
+		"chi"		"First Class"
+	}
+	"rmstitanic_m4"
+	{
+		"chi"		"Lifeboat Escape"
+	}
+	"rmstitanic_s1"
+	{
+		"chi"		"Boatdeck Survival (Day)"
+	}
+	"rh_map01"
+	{
+		"chi"		"1: The Train Yard"
+	}
+	"rh_map02"
+	{
+		"chi"		"2: The Ash Township"
+	}
+	"rh_map03"
+	{
+		"chi"		"3: Ash Highway"
+	}
+	"rh_map04"
+	{
+		"chi"		"4: Ash Border Cross"
+	}
+	"rh_map05"
+	{
+		"chi"		"5: Ash Mountain Summit"
+	}
+	"map2"
+	{
+		"chi"		"Undecided"
+	}
+	"helipad"
+	{
+		"chi"		"Ceda Evac Center"
+	}
+	"sector-74-chapter-1"
+	{
+		"chi"		"1-Leaving home"
+	}
+	"sector-74-chapter-2"
+	{
+		"chi"		"2-A train away"
+	}
+	"sector-74-chapter-3"
+	{
+		"chi"		"3-The old forest"
+	}
+	"sector-74-chapter-4"
+	{
+		"chi"		"4-The underground passage"
+	}
+	"sector-74-chapter-5"
+	{
+		"chi"		"5-Deserted military base"
+	}
+	"sector-74-chapter-6"
+	{
+		"chi"		"6-Chopper inbound"
+	}
+	"sector-74-chapter-7"
+	{
+		"chi"		"7-Arriving at Sector-74"
+	}
+	"sector-74-chapter-8"
+	{
+		"chi"		"8-Deep dangers"
+	}
+	"sector-74-chapter-9"
+	{
+		"chi"		"9-Code green"
+	}
+	"sector-74-chapter-10"
+	{
+		"chi"		"10-Derelict HQ"
+	}
+	"sector-74-chapter-11"
+	{
+		"chi"		"11-Flight from hell"
+	}
+	"sector-74-chapter-12"
+	{
+		"chi"		"12-Nice neighbourhood"
+	}
+	"sector-74-chapter-13"
+	{
+		"chi"		"13-Let's get rolling"
+	}
+	"sector-74-chapter-14"
+	{
+		"chi"		"14-The road to safety"
+	}
+	"sector-74-chapter-15"
+	{
+		"chi"		"15-Get to the chopper"
+	}
+	"sector-74-chapter-16"
+	{
+		"chi"		"16-A safe island"
+	}
+	"ch_map1_city"
+	{
+		"chi"		"The City"
+	}
+	"ch_map2_temple"
+	{
+		"chi"		"The Temple"
+	}
+	"ch_map3_greatwall"
+	{
+		"chi"		"The Great Wall"
+	}
+	"campanar_coop_vs"
+	{
+		"chi"		"Campanar"
+	}
+	"alboraya_coop_vs"
+	{
+		"chi"		"Alboraya"
+	}
+	"cullera_coop_vs"
+	{
+		"chi"		"Cullera"
+	}
+	"pool_survival"
+	{
+		"chi"		"Swimming Pool"
+	}
+	"squash_surv"
+	{
+		"chi"		"Squash"
+	}
+	"rooftop_surv"
+	{
+		"chi"		"Rooftop"
+	}
+	"dayofthedead1"
+	{
+		"chi"		"1: Streets"
+	}
+	"dayofthedead2"
+	{
+		"chi"		"2: Streets at night"
+	}
+	"dayofthedead3"
+	{
+		"chi"		"3: Bunker"
+	}
+	"dayofthedead4"
+	{
+		"chi"		"4: Home"
+	}
+	"dayofthedead5"
+	{
+		"chi"		"5: Inside the base"
+	}
+	"dayofthedead6"
+	{
+		"chi"		"6: Abandonned beach"
+	}
+	"dcl_m1_backalley"
+	{
+		"chi"		"1. Back Alley"
+	}
+	"dcl_m2_bridge"
+	{
+		"chi"		"2. Draw Bridge"
+	}
+	"dcl_m3_outpost"
+	{
+		"chi"		"3. The Outpost"
+	}
+	"bt1"
+	{
+		"chi"		"The Suburbs"
+	}
+	"bt2"
+	{
+		"chi"		"Hospital Rendezvous"
+	}
+	"bt3"
+	{
+		"chi"		"Shopping With The Dead"
+	}
+	"bt4"
+	{
+		"chi"		"City"
+	}
+	"bt5"
+	{
+		"chi"		"New Dawn"
+	}
+	"DeathSummit"
+	{
+		"chi"		"The Climb"
+	}
+	"deathsummit_2"
+	{
+		"chi"		"The Escape"
+	}
+	"map_subsequent"
+	{
+		"chi"		"孤岛"
+	}
+	"hkboxtest"
+	{
+		"chi"		"Tsim Sha Tsui"
+	}
+	"hkboxtest2"
+	{
+		"chi"		"Avenue of Stars"
+	}
+	"hkboxtest3"
+	{
+		"chi"		"Park Escape"
+	}
+	"summer01"
+	{
+		"chi"		"小镇"
+	}
+	"sfl01"
+	{
+		"chi"		"选择"
+	}
+	"summer02"
+	{
+		"chi"		"村"
+	}
+	"summer03"
+	{
+		"chi"		"山"
+	}
+	"summer05"
+	{
+		"chi"		"田野"
+	}
+	"hcw1_aircrash"
+	{
+		"chi"		"1: AirCrash"
+	}
+	"hcw2_rivermotel"
+	{
+		"chi"		"2: RiverMotel"
+	}
+	"hcw3_outskirts"
+	{
+		"chi"		"3: OutSkirts"
+	}
+	"hcw4_cityhall"
+	{
+		"chi"		"4: CityHall"
+	}
+	"hcw5_bombshelter"
+	{
+		"chi"		"5: BombShelter"
+	}
+	"l4d2_freezing_01"
+	{
+		"chi"		"1: Below Zero"
+	}
+	"l4d2_freezing_02"
+	{
+		"chi"		"2: Old Mansion"
+	}
+	"l4d2_freezing_03"
+	{
+		"chi"		"3: Secret Lab"
+	}
+	"l4d2_freezing_04"
+	{
+		"chi"		"4: Gauntlet Finale"
+	}
+	"rtf_train"
+	{
+		"chi"		"Easy Rider"
+	}
+	"redtide_01_alleyways"
+	{
+		"chi"		"Alleyways"
+	}
+	"redtide_02_condo"
+	{
+		"chi"		"Condo"
+	}
+	"redtide_03_carshow"
+	{
+		"chi"		"Car Show"
+	}
+	"redtide_04_retirementhome"
+	{
+		"chi"		"Retirement Home"
+	}
+	"redtide_05_beachfront"
+	{
+		"chi"		"Beachfront Finale"
+	}
+	"l4d_149_1"
+	{
+		"chi"		"1: The Dawn of Zombies"
+	}
+	"l4d_149_2"
+	{
+		"chi"		"2: The Alamo"
+	}
+	"l4d_149_3"
+	{
+		"chi"		"3: Bad Moon Rising"
+	}
+	"l4d_149_4"
+	{
+		"chi"		"4: Fire Hazard"
+	}
+	"l4d_149_5"
+	{
+		"chi"		"5: The Tomb"
+	}
+	"deadbeat01_forest"
+	{
+		"chi"		"1: Forest"
+	}
+	"deadbeat02_alley"
+	{
+		"chi"		"2: Alley"
+	}
+	"deadbeat03_street"
+	{
+		"chi"		"3: Streets"
+	}
+	"deadbeat04_park"
+	{
+		"chi"		"4: Park Finale"
+	}
+	"mayuns_1"
+	{
+		"chi"		"Library"
+	}
+	"office"
+	{
+		"chi"		"Offices"
+	}
+	"mainstreet"
+	{
+		"chi"		"Mainstreet"
+	}
+	"dump"
+	{
+		"chi"		"Freeway"
+	}
+	"datacenter"
+	{
+		"chi"		"Datacenter"
+	}
+	"hehe30_1"
+	{
+		"chi"		"超速"
+	}
+	"hehe30_2"
+	{
+		"chi"		"步步高升"
+	}
+	"hehe30_3"
+	{
+		"chi"		"死亡漏斗"
+	}
+	"hehe30_4"
+	{
+		"chi"		"机枪陷阱"
+	}
+	"hehe30_5"
+	{
+		"chi"		"盘龙湾"
+	}
+	"hehe30_6"
+	{
+		"chi"		"狙"
+	}
+	"hehe30_7"
+	{
+		"chi"		"hehe回忆录1"
+	}
+	"hehe30_8"
+	{
+		"chi"		"冰蚊香燃烧"
+	}
+	"hehe30_9"
+	{
+		"chi"		"海上列车"
+	}
+	"hehe30_10"
+	{
+		"chi"		"地府入口"
+	}
+	"hehe30_11"
+	{
+		"chi"		"失心疯"
+	}
+	"hehe30_12"
+	{
+		"chi"		"真管道恐惧"
+	}
+	"hehe30_13"
+	{
+		"chi"		"楼梯谜题"
+	}
+	"hehe30_14"
+	{
+		"chi"		"小橙图"
+	}
+	"hehe30_15"
+	{
+		"chi"		"下山"
+	}
+	"hehe30_16"
+	{
+		"chi"		"角斗场"
+	}
+	"hehe30_17"
+	{
+		"chi"		"多重挑战"
+	}
+	"hehe30_18"
+	{
+		"chi"		"沙漠-尘埃"
+	}
+	"hehe30_19"
+	{
+		"chi"		"迷雾小镇"
+	}
+	"hehe30_20"
+	{
+		"chi"		"丛林"
+	}
+	"hehe30_21"
+	{
+		"chi"		"迷宫"
+	}
+	"hehe30_22"
+	{
+		"chi"		"考研"
+	}
+	"hehe30_23"
+	{
+		"chi"		"考公"
+	}
+	"hehe30_24"
+	{
+		"chi"		"牛子山"
+	}
+	"hehe30_25"
+	{
+		"chi"		"shenmejb-mini"
+	}
+	"hehe30_26"
+	{
+		"chi"		"下班"
+	}
+	"hehe30_27"
+	{
+		"chi"		"油罐挑战"
+	}
+	"hehe30_28"
+	{
+		"chi"		"简单游戏"
+	}
+	"hehe30_29"
+	{
+		"chi"		"十殿阎罗"
+	}
+	"hehe30_30"
+	{
+		"chi"		"虚毛地图"
+	}
+	"village_beta408"
+	{
+		"chi"		"The Church Steeple"
+	}
+	"forest_beta407"
+	{
+		"chi"		"Military Post"
+	}
+	"urban_beta408"
+	{
+		"chi"		"Urban Zombie War"
+	}
+	"final_beta408"
+	{
+		"chi"		"Seaside Village Finale"
+	}
+	"fosre01_maomaohill"
+	{
+		"chi"		"maomaohill"
+	}
+	"fosre02_fftown"
+	{
+		"chi"		"fftown"
+	}
+	"fosre03_factory"
+	{
+		"chi"		"factory"
+	}
+	"fosre04_moors"
+	{
+		"chi"		"moors"
+	}
+	"fosre05_92farm"
+	{
+		"chi"		"92farm"
+	}
+	"irrx001"
+	{
+		"chi"		"The Apartments"
+	}
+	"irrx002"
+	{
+		"chi"		"The Shoppes"
+	}
+	"irrx003"
+	{
+		"chi"		"Innes Road"
+	}
+	"irrx004"
+	{
+		"chi"		"PineView"
+	}
+	"irrx005"
+	{
+		"chi"		"The Overpass"
+	}
+	"irrx006"
+	{
+		"chi"		"GHS"
+	}
+	"redemptionII-deadstop"
+	{
+		"chi"		"Deadstop"
+	}
+	"redemptionII-plantworks"
+	{
+		"chi"		"Cover-UP"
+	}
+	"redemptionII-ceda-pt1"
+	{
+		"chi"		"Delve Deeper"
+	}
+	"redemptionii-ceda-pt2"
+	{
+		"chi"		"The Truth"
+	}
+	"roundhouse"
+	{
+		"chi"		"Escape"
+	}
+}

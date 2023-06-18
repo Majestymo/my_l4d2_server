@@ -1,0 +1,17 @@
+﻿"Phrases"
+{
+	//Command reply
+	//Sprayed by: {Name} ({SteamID})
+	"Sprayed"
+	{
+		"#format"		"{1:s},{2:s}"
+		"chi"           "{1} ({2}) 的喷漆"
+	}
+
+	//Command reply
+	//Sprayed by: {Name}
+	"Sprayed Name"
+	{
+		"chi"           "%s 的喷漆"
+	}
+}

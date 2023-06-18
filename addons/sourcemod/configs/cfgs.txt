@@ -1,0 +1,30 @@
+"Cfgs"
+{	
+	"人机 回血 友伤"
+	{
+		"sm_cvar sb_fix_enabled 1"
+		{
+			"message" "加强人机"
+		}
+		"sm_cvar sb_fix_enabled 0"
+		{
+			"message" "不加强了"
+		}
+		"exec define/ff/easy.cfg"
+		{
+			"message" "友伤简单0"
+		}
+		"exec define/ff/normal.cfg"
+		{
+			"message" "友伤一般0.1"
+		}
+		"exec define/ff/hard.cfg"
+		{
+			"message" "友伤困难0.3"
+		}
+		"exec define/ff/expert.cfg"
+		{
+			"message" "友伤专家0.5"
+		}
+	}
+}
